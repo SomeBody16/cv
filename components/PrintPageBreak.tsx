@@ -1,3 +1,3 @@
 export const PrintPageBreak = () => {
-    return <div className="print-page-break" />;
-};
+    return <div className='print-page-break' />
+}

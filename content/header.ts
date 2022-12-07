@@ -1,8 +1,8 @@
 export const header = {
-    name: "Filip",
-    surname: "Nowakowski",
-    email: "filip.nowakowski2000@outlook.com",
-    phone: "730 903 907",
+    name: 'Filip',
+    surname: 'Nowakowski',
+    email: 'filip.nowakowski2000@outlook.com',
+    phone: '730 903 907',
     description: `
     Hey! I'm a Junior/Mid-developer (honestly, I don't know where
     the border between Junior and Mid is). I prefer own solutions
@@ -17,4 +17,4 @@ export const header = {
     world, with youtube, reddit, and all kind of news sources - day
     without new framework is a lost day.
     `,
-};
+}
