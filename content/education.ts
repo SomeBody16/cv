@@ -8,9 +8,9 @@ export type EducationItem = {
 export const education: EducationItem[] = [
     {
         from: '10.2020',
-        until: 'now',
+        until: '02.2024',
         school: 'Wyższa Szkoła Zarządzania i Bankowości',
-        level: 'IT Engineer',
+        level: 'Bachelor of enginering',
     },
     {
         from: '2017',

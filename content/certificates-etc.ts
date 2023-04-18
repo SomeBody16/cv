@@ -27,7 +27,7 @@ export const certificatesEtc: CertificateEtcItem[] = [
     },
     {
         date: '06.2018',
-        name: 'CISCO IT Essencials',
+        name: 'CISCO IT Essentials',
         administrator: 'TEB Edukacja',
     },
     // {
