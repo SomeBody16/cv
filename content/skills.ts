@@ -1,15 +1,16 @@
 export const skills = [
+    'Web Development (Nest.js | Next.js | Svelte)',
     'TypeScript',
-    'Next.js',
-    'Nest.js',
+    'Design Patterns',
     'nx.dev',
     'Docker',
     'Clojure',
     'PHP',
     'Python',
-    'Firebase',
-    'Supabase',
-    'Appwrite',
     'GraphQL',
     'RESTful API',
+    'SQL',
+    'GitHub',
+    'Jira',
+    'Google Cloud'
 ]

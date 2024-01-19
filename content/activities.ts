@@ -7,16 +7,16 @@ export type ActivityItem = {
 }
 
 export const activities: ActivityItem[] = [
-    {
-        from: '04.2020',
-        until: '10.2021',
-        label: 'Junior Developer on private server GTA V',
-        place: 'AtomicRP',
-        description: `
-        Creating scripts for server\n
-        Lua • React.js • Firebase
-        `,
-    },
+    // {
+    //     from: '04.2020',
+    //     until: '10.2021',
+    //     label: 'Junior Developer on private server GTA V',
+    //     place: 'AtomicRP',
+    //     description: `
+    //     Creating scripts for server\n
+    //     Lua • React.js • Firebase
+    //     `,
+    // },
     {
         from: '07.2017',
         until: '07.2018',
@@ -24,19 +24,19 @@ export const activities: ActivityItem[] = [
         place: 'Anaheim, USA',
         description: `Participant (Microsoft Word 2013)`,
     },
-    {
-        from: '06.2018',
-        until: '06.2018',
-        label: 'Volunteer - World Championship in mountain canoeing 2018',
-        place: 'Kraków',
-        description: `Overall organization, camera switcher`,
-    },
+    // {
+    //     from: '06.2018',
+    //     until: '06.2018',
+    //     label: 'Volunteer - World Championship in mountain canoeing 2018',
+    //     place: 'Kraków',
+    //     description: `Overall organization, camera switcher`,
+    // },
     {
         from: '01.2018',
         until: '04.2018',
         label: 'C++ teacher for 13-15 years olds',
         place: 'Biały Kościół',
-        description: `Teching about C++ language in beginers level`,
+        description: `Teaching about C++ language in beginers level`,
     },
     {
         from: '03.2018',

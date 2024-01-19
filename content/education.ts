@@ -10,7 +10,7 @@ export const education: EducationItem[] = [
         from: '10.2020',
         until: '02.2024',
         school: 'Wyższa Szkoła Zarządzania i Bankowości',
-        level: 'Bachelor of enginering',
+        level: 'Bachelor of engineering',
     },
     {
         from: '2017',

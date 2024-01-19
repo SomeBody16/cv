@@ -23,6 +23,10 @@ export const Header = () => {
                             <span className='font-bold'>Phone:</span>
                             <span>{header.phone}</span>
                         </div>
+                        <div className='flex gap-2'>
+                            <span className='font-bold'>Current place of residence:</span>
+                            <span>{header.residence}</span>
+                        </div>
                     </div>
                 </div>
                 <div className=''>

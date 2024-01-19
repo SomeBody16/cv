@@ -29,6 +29,10 @@ export default function Home() {
             <CertificatesEtc order='05' />
             <PrintPageBreak />
             <Activities order='06' className='mt-4' />
+            <div style={{ marginTop: '390px' }}>
+                I hereby authorize the use of my personal data in accordance with the GDPR 679/16 -
+                "European regulation on the protection of personal data".
+            </div>
         </main>
     )
 }

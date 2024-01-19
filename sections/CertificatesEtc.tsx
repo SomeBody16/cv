@@ -13,9 +13,10 @@ export const CertificatesEtc = (props: CertificatesEtcProps) => {
             <div className='mt-4'>
                 {certificatesEtc.map((entry, index) => (
                     <div key={index} className='mt-4 flex flex-col'>
-                        <div>{entry.date}</div>
+                        <div>
+                            {entry.date} - {entry.administrator}
+                        </div>
                         <div className='text-lg font-bold'>{entry.name}</div>
-                        <div>{entry.administrator}</div>
                     </div>
                 ))}
             </div>

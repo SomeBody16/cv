@@ -35,9 +35,9 @@ export const certificatesEtc: CertificateEtcItem[] = [
     //     name: "Szkoła w Chmurze",
     //     administrator: "Microsoft",
     // },
-    {
-        date: '08.2018',
-        name: 'Mass Events',
-        administrator: 'Millenium Szkolenia',
-    },
+    // {
+    //     date: '08.2018',
+    //     name: 'Mass Events',
+    //     administrator: 'Millenium Szkolenia',
+    // },
 ]
